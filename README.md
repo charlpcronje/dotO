@@ -4,6 +4,7 @@
 URL to intranet: `https://172.29.0.29/intranet/`
 Path to Intranet: `\\172.29.0.29\www\html\intranet`
 
+This REPO might give you problems please use this link: https://github.com/charlpcronje/intranet
 
 ## Code Lifecycle
 The entire `MVC` system runs in the `system` namespace. Then I created more namespaces within system to be consistent with the folder structure.
